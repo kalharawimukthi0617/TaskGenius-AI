@@ -1,7 +1,7 @@
 # 📝 Smart Task Management
 
 <div align="center">
-  <img src="/api/placeholder/200/200" alt="LionAI Todo Logo" width="200"/>
+  <img src="images/app_logo.png" alt="LionAI Todo Logo" width="200"/>
 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
