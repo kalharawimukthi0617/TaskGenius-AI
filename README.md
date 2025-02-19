@@ -56,7 +56,7 @@
 ### Download
 Get the latest version of LionAI Todo:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green.svg?style=for-the-badge)](link-to-your-apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-green.svg?style=for-the-badge)](https://github.com/kalharawimukthi0617/TaskGenius-AI/releases/download/todo/task-genius-ai.apk)
 
 ### Requirements
 - Android 5.0 (API level 21) or higher
