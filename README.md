@@ -5,7 +5,6 @@
 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 </div>
 
 ## 🌟 Features
@@ -42,6 +41,10 @@
   <img src="screenshots/Screenshot_20250219_093430.jpg" alt="Task List" width="220"/>
   <img src="screenshots/Screenshot_20250219_093548.jpg" alt="Add Task" width="220"/>
   <img src="screenshots/Screenshot_20250219_093720.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093728.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093733.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093743.jpg" alt="Recycle Bin" width="220"/>
+
 </div>
 
 ## ⚡ Quick Start
@@ -65,9 +68,9 @@ Get the latest version of LionAI Todo:
 
 ### Natural Language Input
 Simply type your task as you would say it:
-- "Meeting with John next Monday at 2pm"
-- "Take medicine daily at 9am"
-- "Pay rent on the 1st of every month"
+- "Meeting with John next Monday at 2.00pm"
+- "I have to study for exam on next Saturday at 4:00pm"
+- "Pay rent on 2025/02/25 every month at 10.00am"
 
 ### Smart Features
 - **Automatic Date Recognition**: Understands relative dates like "tomorrow," "next week"
@@ -95,7 +98,7 @@ LionAI Todo:
 
 For support, feature requests, or bug reports:
 - Create an issue on GitHub
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [kalharawimukthi0617@gmail.com](kalharawimukthi0617@gmail.com)
 
 ## 📄 License
 
@@ -104,5 +107,5 @@ LionAI Todo is released under the MIT License. See [LICENSE](LICENSE) for detail
 ---
 
 <div align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Kalhara Wimukthi
 </div>
