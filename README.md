@@ -1,4 +1,4 @@
-# 📝 LionAI Todo - Smart Task Management
+# 📝 Smart Task Management
 
 <div align="center">
   <img src="/api/placeholder/200/200" alt="LionAI Todo Logo" width="200"/>
@@ -39,9 +39,13 @@
 
 <div align="center">
   <img src="screenshots/Screenshot_20250219_093430.jpg" alt="Task List" width="220"/>
-  <img src="screenshots/Screenshot_20250219_093548.jpg" alt="Add Task" width="220"/>
-  <img src="screenshots/Screenshot_20250219_093720.jpg" alt="Recycle Bin" width="220"/>
-  <img src="screenshots/Screenshot_20250219_093728.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093531.jpg" alt="Add Task" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093542.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093548.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093555.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093701.jpg" alt="Recycle Bin" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093720.jpg" alt="Task List" width="220"/>
+  <img src="screenshots/Screenshot_20250219_093728.jpg" alt="Add Task" width="220"/>
   <img src="screenshots/Screenshot_20250219_093733.jpg" alt="Recycle Bin" width="220"/>
   <img src="screenshots/Screenshot_20250219_093743.jpg" alt="Recycle Bin" width="220"/>
 
@@ -74,7 +78,7 @@ Simply type your task as you would say it:
 
 ### Smart Features
 - **Automatic Date Recognition**: Understands relative dates like "tomorrow," "next week"
-- **Time Parsing**: Flexible time input (2pm, 14:00, etc.)
+- **Time Parsing**: Flexible time input (2.00pm, 14:00, etc.)
 - **Recurring Pattern Detection**: Automatically identifies repetitive tasks
 - **Context-Aware Suggestions**: Provides relevant examples based on task type
 
@@ -88,7 +92,7 @@ Built with:
 
 ## 🔒 Privacy
 
-LionAI Todo:
+ Smart Task Management Todo:
 - Works completely offline
 - No data collection
 - No internet permission required
@@ -98,14 +102,13 @@ LionAI Todo:
 
 For support, feature requests, or bug reports:
 - Create an issue on GitHub
-- Email: [kalharawimukthi0617@gmail.com](kalharawimukthi0617@gmail.com)
-
-## 📄 License
-
-LionAI Todo is released under the MIT License. See [LICENSE](LICENSE) for details.
+- Email: <a href="mailto:kalharawimukthi0617@gmail.com">kalharawimukthi0617@gmail.com</a>
 
 ---
 
 <div align="center">
   Made with ❤️ by Kalhara Wimukthi
 </div>
+
+
+
